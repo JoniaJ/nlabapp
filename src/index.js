@@ -25,9 +25,7 @@ class Header extends Component {
     return(
       <div>
       <div className="row">
-        <div className="colum">
         <h1>OUR PROGRAMS</h1>
-        </div>
       </div>
       <div className="row">
         <div className="colum">
@@ -55,8 +53,10 @@ class Header extends Component {
      </div>
 
 <div className="row">
+<h2> Do you what to join Nlab?</h2>
+</div>
+<div className="row">
 <div className="colum">
- <h2> Do you what to join Nlab?</h2>
   <h3>As student</h3>
   <p> Nlab is helping a student like you to make sure
     your good educated in technology field.

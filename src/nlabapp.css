@@ -37,10 +37,8 @@
     text-decoration:none ;
     padding: 14px 16px;
  }
-.h2{
-    text-align: center;
-    background-color: white;
-    padding:12px 15px ;
+.colum {
+    flex: 1;
 }
 .row{
     width: 100%;
@@ -50,7 +48,7 @@
     padding: 10px 0px;
 }
 .footer{
-        background-color: blue;
+        background-color: red;
         color: black;
         text-align: center;
         padding: 10px 14px;
