@@ -15,7 +15,7 @@ class Header extends Component {
           <Router>
   <div className="header">
     <div className="logo">
-      <img src={logo}/>
+      <img src={logo} alt="NLab"/>
       <h1>NLAB INNOVATION ACADEMY</h1>
       </div>
   <div className="nav">
