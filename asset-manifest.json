@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nlabapp/static/css/main.a478b6f5.chunk.css",
+    "main.css": "/nlabapp/static/css/main.df2f3f3d.chunk.css",
     "main.js": "/nlabapp/static/js/main.9737d010.chunk.js",
     "main.js.map": "/nlabapp/static/js/main.9737d010.chunk.js.map",
     "runtime-main.js": "/nlabapp/static/js/runtime-main.85f25e7c.js",
@@ -8,9 +8,9 @@
     "static/js/2.de7894b9.chunk.js": "/nlabapp/static/js/2.de7894b9.chunk.js",
     "static/js/2.de7894b9.chunk.js.map": "/nlabapp/static/js/2.de7894b9.chunk.js.map",
     "index.html": "/nlabapp/index.html",
-    "precache-manifest.72a7aa5ac098ab112d265ecde1079c86.js": "/nlabapp/precache-manifest.72a7aa5ac098ab112d265ecde1079c86.js",
+    "precache-manifest.564d5eea0915965af47694c4021db3c3.js": "/nlabapp/precache-manifest.564d5eea0915965af47694c4021db3c3.js",
     "service-worker.js": "/nlabapp/service-worker.js",
-    "static/css/main.a478b6f5.chunk.css.map": "/nlabapp/static/css/main.a478b6f5.chunk.css.map",
+    "static/css/main.df2f3f3d.chunk.css.map": "/nlabapp/static/css/main.df2f3f3d.chunk.css.map",
     "static/js/2.de7894b9.chunk.js.LICENSE.txt": "/nlabapp/static/js/2.de7894b9.chunk.js.LICENSE.txt",
     "static/media/img1.jpg": "/nlabapp/static/media/img1.9038c419.jpg",
     "static/media/img2.jpg": "/nlabapp/static/media/img2.c72abd62.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.85f25e7c.js",
     "static/js/2.de7894b9.chunk.js",
-    "static/css/main.a478b6f5.chunk.css",
+    "static/css/main.df2f3f3d.chunk.css",
     "static/js/main.9737d010.chunk.js"
   ]
 }
