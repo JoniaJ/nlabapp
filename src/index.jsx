@@ -10,7 +10,6 @@ class header extends Component {
 <div className="nav">
   <a href="Index.js">HOME</a>
   <a href="about.js">ABOUT NLAB</a>
-  <a href="service.js">OUR SERVICES</a>
   <a href="contact.js">CONTACT US</a>
 </div>
 </div>
