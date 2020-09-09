@@ -8,6 +8,7 @@ import {
 }from 'react-router-dom';
 import Home from './Home';
 import About from './About';
+import Contact from './Contact';
 
 class Header extends Component {
     render() {
@@ -21,7 +22,6 @@ class Header extends Component {
   <div className="nav">
     <Link to="/">HOME</Link>
     <Link to="/about">ABOUT NLAB</Link>
-    <Link to="/services">OUR SERVICES</Link>
     <Link to="/contact">CONTACT US</Link>
   </div>
   </div>
@@ -32,6 +32,9 @@ class Header extends Component {
       </Route>
       <Route path="/about">
           <About/>
+      </Route>
+      <Route path="/contact">
+          <Contact/>
       </Route>
   </Switch>
 

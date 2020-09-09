@@ -1,11 +1,11 @@
 import React from 'react'
-import img1 from './img1.jpg'
+import img06 from './img06.PNG'
 import img2 from './img2.jpg'
 import './nlabapp.css'
 const Home =()=>{
     return(
       <div>
-          <img src={img1} alt="img1" className="big-img"/>
+          <img src={img06} alt="img06" className="big-img"/>
       <div className="row">
         <h1>OUR PROGRAMS</h1>
       </div>
@@ -35,7 +35,7 @@ const Home =()=>{
      </div>
      <img src={img2} alt="img2" className="big-img"/>
 <div className="row">
-<h2> Do you what to join Nlab?</h2>
+<h2> Do you want to join Nlab?</h2>
 </div>
 <div className="row">
 <div className="colum">

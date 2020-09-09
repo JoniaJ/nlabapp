@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import logo from './github/logo.png';
-class header extends Component {
+class Header extends Component {
   render() {
     return (
 <div className="header">
@@ -63,7 +63,7 @@ class header extends Component {
 </div>
     )
   }
-  function footer() {
+  function Footer() {
     return(
       <div className="footer">
         <p>info@Nlab.ac.tz</p>
@@ -73,9 +73,9 @@ class header extends Component {
   class App extends Component{
     render(){
       return(
-      <header/>
+      <Header/>
       <Body/>
-      <footer/>
+      <Footer/>
     )
   }
   }
